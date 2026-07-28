@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# Trained Model
+trained_model.pkl
+
+# Database
+database/attendance.db
+
+# Exported Files
+exports/
+
+# Environment Files
+.env
+
+# VS Code
+.vscode/
