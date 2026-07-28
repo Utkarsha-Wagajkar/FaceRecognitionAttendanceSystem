@@ -8,12 +8,12 @@ Dashboard Screenshot
 ------------------------------------------------------
 
  ~Features
-✔ Student Registration
-✔ Face Recognition
-✔ Attendance Tracking
-✔ Export to Excel
-✔ Search & Filter
-✔ Statistics Dashboard
+- Student Registration
+- Face Recognition
+- Attendance Tracking
+- Export to Excel
+- Search & Filter
+- Statistics Dashboard
 ------------------------------------------------------
 
 ~ Technologies Used
