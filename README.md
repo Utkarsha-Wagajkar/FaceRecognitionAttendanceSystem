@@ -4,9 +4,6 @@ A Python-based Face Recognition Attendance System using
 InsightFace, OpenCV, SQLite and CustomTkinter.
 
 ------------------------------------------------------
-Dashboard Screenshot
-------------------------------------------------------
-
  ~Features
 - Student Registration
 - Face Recognition
